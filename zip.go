@@ -1,3 +1,4 @@
+// Go-Word public
 package goword
 
 import (
